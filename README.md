@@ -14,6 +14,4 @@ Features:
   6.Personalized Fortune Display
     -The getPersonalFortune function takes a user's name as input, It prints some of the ASCII art and then generates zolatrs final decision
 Future of Project
-  Currently this project is very basic because with my current skill level this is all I can do in javascript. I am going to learn how to integrate Javascript with websites nd turn this into a website. I also plan on learning how to integrate
-  chatgpt to generate more unique responses and have conversations with the user. I plan on also integrating a text to ascii conversion so all of Zoltar's responses will be in ASCII text creating a more coherant user experience
-
+  Currently this project is very basic because with my current skill level this is all I can do in javascript. I am going to learn how to integrate Javascript with websites nd turn this into a website. I also plan on learning how to integrate chatgpt to generate more unique responses and have conversations with the user. I plan on also integrating a text to ascii conversion so all of Zoltar's responses will be in ASCII text creating a more coherant user experience
